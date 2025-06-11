@@ -45,27 +45,27 @@
 
 .intro 
 {
-    font-size: 1.1rem;
+    font-size: 1rem;
     color: #003f5c;
     margin-bottom: 0.5rem;
 }
 
 .name 
 {
-    font-size: 2.5rem;
+    font-size: 3rem;
     margin: 0;
 }
 
 .title 
 {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     color: #1c4587;
     margin: 0.5rem 0 1.5rem;
 }
 
 .bio 
 {
-    font-size: 1rem;
+    font-size: 1.1rem;
     line-height: 1.6;
     max-width: 600px;
 }
@@ -73,7 +73,7 @@
 .resume-button 
 {
     display: inline-block;
-    margin-top: 1.5rem;
+    margin-top: 1rem;
     background-color: #0a3d62;
     color: white;
     padding: 0.7rem 1.5rem;
@@ -91,7 +91,7 @@
 .grad-photo img 
 {
     width: 280px;
-    height: 280px;
+    height: 350px;
     object-fit: cover;
     border-radius: 10px;
     border: 4px solid #0a3d62;
