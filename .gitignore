@@ -1,0 +1,10 @@
+# Ignore Visual Studio and temp files
+.vs/
+*.user
+*.suo
+*.sqlite
+*.sqlite-journal
+*.db
+*.cache
+*.log
+*.wsuo
