@@ -199,9 +199,9 @@
     gap: 2rem;
 }
 
-.courses 
-{
-    flex: 1 1 60%;
+.courses {
+    border-right: 2px solid #064789;
+    flex: 1 1 40%;
 }
 .awards 
 {
@@ -223,3 +223,5 @@
         padding-left: 1.2rem;
         line-height: 1.6;
     }
+
+/* contact section */
