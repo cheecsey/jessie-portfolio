@@ -225,3 +225,47 @@
     }
 
 /* contact section */
+.section-divider 
+{
+    border: none;
+    border-top: 3px solid #064789;
+    margin: 4rem auto 2rem;
+    width: 80%;
+}
+
+.contact-section 
+{
+    padding: 2rem 2rem 4rem;
+    text-align: center;
+    background-color: #cfe2f3;
+}
+.contact-title 
+{
+    font-size: 2rem;
+    color: #064789;
+    margin-bottom: 1.5rem;
+}
+
+.contact-buttons 
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.contact-button 
+{
+    background-color: #064789;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+    .contact-button:hover 
+    {
+        background-color: #05345c;
+    }
