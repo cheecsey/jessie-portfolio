@@ -185,3 +185,41 @@
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
+
+/* awards & courses section */
+.education-section 
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 4rem 2rem;
+    background-color: #d8ecf8;
+    max-width: 1100px;
+    margin: 0 auto;
+    gap: 2rem;
+}
+
+.courses 
+{
+    flex: 1 1 60%;
+}
+.awards 
+{
+    flex: 1 1 35%;
+}
+
+    .courses h3, .awards h3 
+    {
+        font-size: 2.5rem;
+        color: #064789;
+        margin-bottom: 1rem;
+        border-bottom: 2px solid #064789;
+        display: inline-block;
+    }
+
+    .courses ul, .awards ul 
+    {
+        list-style: disc;
+        padding-left: 1.2rem;
+        line-height: 1.6;
+    }
